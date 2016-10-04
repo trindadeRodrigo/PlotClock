@@ -2,7 +2,7 @@
 // Plotclock
 // cc - by Rodrigo Trindade 2016
 // v 0.1
-// thingiverse.com/joo for the project
+// thingiverse.com/joo for the original project
 // units: mm; microseconds; radians
 // origin: bottom left of drawing surface
 // time library see http://playground.arduino.cc/Code/time 
